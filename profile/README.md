@@ -121,8 +121,8 @@ JobA!는 사용자가 채용공고를 직접 찾는 대신,
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
   <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logo=uvicorn&logoColor=white">
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Uvicorn-2094F3?style=flat-square&logo=gunicorn&logoColor=white">
 </div>
 
 ### ☁️ Infra & DevOps
