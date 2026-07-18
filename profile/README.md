@@ -1,4 +1,4 @@
-# 💼 JobA!
+<img width="1920" height="1080" alt="공고 상세" src="https://github.com/user-attachments/assets/05e3036f-f9f0-4727-9194-62986b322e0f" /># 💼 JobA!
 ### 나에게 맞는 채용공고, 이제 직접 찾지 마세요
 ### IT 채용공고 자동 수집 · AI 적합도 매칭 · 실시간 알림 서비스
 
@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/TAVE 17th-000000?style=for-the-badge">
 </p>
 
-<!-- 📷 여기에 대표 이미지(로고/커버) 삽입 -->
+<img width="1920" height="1080" alt="표지" src="https://github.com/user-attachments/assets/fa4c9941-82ce-4194-bf24-f2a444191e19" />
 
 ---
 
@@ -59,12 +59,11 @@ JobA!는 사용자가 채용공고를 직접 찾는 대신,
 
 ## 📱 Demo & Screen Preview
 
-<!-- 📷 여기에 시연 GIF 삽입 (가장 눈에 띄는 자리) -->
-
-<!-- 📷 여기에 온보딩 화면 이미지 삽입 -->
-<!-- 📷 여기에 홈 / AI 적합도 추천 화면 이미지 삽입 -->
-<!-- 📷 여기에 자연어 검색 화면 이미지 삽입 -->
-<!-- 📷 여기에 지원 현황 트래커 화면 이미지 삽입 -->
+<img width="1920" height="1080" alt="온보딩" src="https://github.com/user-attachments/assets/5570c020-36a7-4726-9ed1-e9c17277b742" />
+<img width="1920" height="1080" alt="홈 (1)" src="https://github.com/user-attachments/assets/f5f0c374-1567-45ed-a4cb-ea71a7711623" />
+<img width="1920" height="1080" alt="공고 검색" src="https://github.com/user-attachments/assets/32e8731b-5bcc-473a-9da0-d139201afc44" />
+<img width="1920" height="1080" alt="공고 상세" src="https://github.com/user-attachments/assets/c7a4ba98-66fb-4fe0-9d7b-93a63f85b04e" />
+<img width="1920" height="1080" alt="지ㅝㄴ현황" src="https://github.com/user-attachments/assets/284627bc-7ce7-4645-b223-329c3a824c97" />
 
 ---
 
