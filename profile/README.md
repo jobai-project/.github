@@ -85,8 +85,8 @@ JobA!는 사용자가 채용공고를 직접 찾는 대신,
 | Part | Repository | Description |
 |:----:|:-----------|:------------|
 | 🖥️ Frontend | [jobai-frontend](https://github.com/jobai-project/jobai-frontend) | 웹 클라이언트 |
-| ⚙️ Backend | [jobai-backend](https://github.com/jobai-project/jobai-backend) | 공고 수집·매칭·알림 API 서버 |
-| 🧠 AI | [jobai-ai](https://github.com/jobai-project/jobai-ai) | 임베딩·매칭·검색 AI 서버 |
+| ⚙️ Backend | [jobai-backend](https://github.com/jobai-project/jobai-backend) | 공고 수집·검색 파이프라인·알림 API 서버 |
+| 🧠 AI | [jobai-ai](https://github.com/jobai-project/jobai-ai) | 임베딩 생성·매칭 점수 산출·검색 결과 Rerank 모델 서버 |
 
 ---
 
