@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="공고 상세" src="https://github.com/user-attachments/assets/05e3036f-f9f0-4727-9194-62986b322e0f" /># 💼 JobA!
 ### 나에게 맞는 채용공고, 이제 직접 찾지 마세요
 ### IT 채용공고 자동 수집 · AI 적합도 매칭 · 실시간 알림 서비스
 
@@ -59,10 +58,24 @@ JobA!는 사용자가 채용공고를 직접 찾는 대신,
 
 ## 📱 Demo & Screen Preview
 
+### 🚀 온보딩
+> 기본 정보·희망 직무·이력서·알림 설정으로 맞춤 추천을 준비해요
 <img width="1920" height="1080" alt="온보딩" src="https://github.com/user-attachments/assets/5570c020-36a7-4726-9ed1-e9c17277b742" />
+
+### 🏠 홈
+> AI가 이력서 기준으로 적합도를 분석해 우선순위대로 공고를 추천해요
 <img width="1920" height="1080" alt="홈 (1)" src="https://github.com/user-attachments/assets/f5f0c374-1567-45ed-a4cb-ea71a7711623" />
+
+### 🔎 공고 검색
+> 키워드부터 문장까지, 검색 의도를 이해해 적합한 공고를 찾아드려요
 <img width="1920" height="1080" alt="공고 검색" src="https://github.com/user-attachments/assets/32e8731b-5bcc-473a-9da0-d139201afc44" />
+
+### 📄 공고 상세
+> 공고를 AI가 요약하고 이력서와 비교 분석해 적합도·추천 이유를 보여드려요
 <img width="1920" height="1080" alt="공고 상세" src="https://github.com/user-attachments/assets/c7a4ba98-66fb-4fe0-9d7b-93a63f85b04e" />
+
+### 🗂️ 지원 현황
+> 스크랩한 공고의 지원 단계·면접 일정을 자동 정리하고 다가오는 일정을 요약해요
 <img width="1920" height="1080" alt="지ㅝㄴ현황" src="https://github.com/user-attachments/assets/284627bc-7ce7-4645-b223-329c3a824c97" />
 
 ---
