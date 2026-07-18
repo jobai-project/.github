@@ -154,10 +154,10 @@ JobA!는 사용자가 채용공고를 직접 찾는 대신,
 
 ## 👥 Team
 
-| 이원준 | 김민주 | 이정헌 | 권소윤 | 이예담 | 김민정 | 이지민 | 이연진 | 이예린 |
+| 이원준 | 권소윤 | 이예담 | 김민정 | 이지민 | 김민주 | 이정헌 | 이연진 | 이예린 |
 |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 | <!-- 📷 --> | <!-- 📷 --> | <!-- 📷 --> | <!-- 📷 --> | <!-- 📷 --> | <!-- 📷 --> | <!-- 📷 --> | <!-- 📷 --> | <!-- 📷 --> |
 | PM / BE | BE | BE | DE | DE | FE | FE | AI | AI |
-| [GitHub](#) | [GitHub](#) | [GitHub](#) | [GitHub](#) | [GitHub](#) | [GitHub](#) | [GitHub](#) | [GitHub](#) | [GitHub](#) |
+| [GitHub](https://github.com/wonjun-lee-fcwj245) | [GitHub](#) | [GitHub](#) | [GitHub](https://github.com/jjung0476) | [GitHub](https://github.com/jiminlyy) | [GitHub](https://github.com/kimmingju) | [GitHub](https://github.com/LeeJeongHeon02) | [GitHub](#) | [GitHub](#) |
 
 ---
