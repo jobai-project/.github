@@ -158,6 +158,6 @@ JobA!는 사용자가 채용공고를 직접 찾는 대신,
 |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 | <!-- 📷 --> | <!-- 📷 --> | <!-- 📷 --> | <!-- 📷 --> | <!-- 📷 --> | <!-- 📷 --> | <!-- 📷 --> | <!-- 📷 --> | <!-- 📷 --> |
 | PM / BE | BE | BE | DE | DE | FE | FE | AI | AI |
-| [GitHub](https://github.com/wonjun-lee-fcwj245) | [GitHub](#) | [GitHub](#) | [GitHub](https://github.com/jjung0476) | [GitHub](https://github.com/jiminlyy) | [GitHub](https://github.com/kimmingju) | [GitHub](https://github.com/LeeJeongHeon02) | [GitHub](#) | [GitHub](#) |
+| [GitHub](https://github.com/wonjun-lee-fcwj245) | [GitHub](#) | [GitHub](#) | [GitHub](https://github.com/jjung0476) | [GitHub](https://github.com/jiminlyy) | [GitHub](https://github.com/kimmingju) | [GitHub](https://github.com/LeeJeongHeon02) | [GitHub](#) | [GitHub](https://github.com/yelran) |
 
 ---
