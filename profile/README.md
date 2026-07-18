@@ -143,7 +143,7 @@ JobA!는 사용자가 채용공고를 직접 찾는 대신,
 ---
 
 ## 🏗 Architecture
-<!-- 📷 여기에 JobA! AWS Architecture 이미지 삽입 -->
+<img width="1640" height="804" alt="image 49" src="https://github.com/user-attachments/assets/64689a0f-8852-4dcf-a6bf-317ded21281b" />
 
 ---
 
