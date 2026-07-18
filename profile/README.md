@@ -108,15 +108,11 @@ JobA!는 사용자가 채용공고를 직접 찾는 대신,
 <div>
   <img src="https://img.shields.io/badge/Java 21-007396?style=flat-square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot 3.5-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
   <img src="https://img.shields.io/badge/OAuth2-4285F4?style=flat-square&logo=google&logoColor=white">
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis (Redisson)-DC382D?style=flat-square&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring AI + Claude-D97757?style=flat-square&logo=anthropic&logoColor=white">
-  <img src="https://img.shields.io/badge/Jsoup-1E9E4A?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/PDFBox-D22128?style=flat-square&logo=apache&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black">
 </div>
 
