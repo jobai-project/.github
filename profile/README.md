@@ -19,8 +19,8 @@ JobA!는 사용자가 채용공고를 직접 찾는 대신,
 공고 수집부터 이력서 매칭, 알림 발송, 지원 현황 관리까지
 채용 준비의 모든 과정을 하나로 연결했습니다.
 
-> 🌐 **Service** : https://app.jobai.site/
-> 🏷️ **TAVE 17th Project**
+🌐 **Service** : https://app.jobai.site/
+🎨 **Figma** : https://www.figma.com/design/AsERHFCsxURAQ9sPOgStTe/TAVE-17%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8---JOBA-?node-id=1-4&p=f&t=aYWaUvtCBu8jylaV-0
 
 ---
 
