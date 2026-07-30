@@ -2,8 +2,7 @@
 ### IT 채용공고 자동 수집 · AI 적합도 매칭 · 실시간 알림 서비스
 
 <p>
-  <a href="https://app.jobai.site/"><img src="https://img.shields.io/badge/🔗 서비스 바로가기-6C5CE7?style=for-the-badge&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/TAVE 17th-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🏆 TAVE 17기 최우수상(1등)-FFD700?style=for-the-badge&logoColor=black">
 </p>
 
 <img width="1920" height="1080" alt="표지" src="https://github.com/user-attachments/assets/fa4c9941-82ce-4194-bf24-f2a444191e19" />
