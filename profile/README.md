@@ -115,7 +115,6 @@ JobA!는 사용자가 채용공고를 직접 찾는 대신,
   <img src="https://img.shields.io/badge/Caffeine Cache-6DB33F?style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/Resilience4j-000000?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Claude API-D97757?style=flat-square&logo=anthropic&logoColor=white">
 
 ### 🧠 AI
 <div>
